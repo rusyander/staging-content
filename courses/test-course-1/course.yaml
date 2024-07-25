@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rusyander/content-schema/main/schemas/course.schema.json
+id: "clz1jfpk3000010ulaybcd3t1"
+title: "Test course"
+description: |
+  ## Course the best
+  - Пункт 1
+  - Пункт 2
+  - Пункт [3](https://google.com)
+lessons:
+  - "lesson-1"
