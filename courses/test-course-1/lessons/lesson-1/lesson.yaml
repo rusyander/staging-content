@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rusyander/content-schema/main/schemas/lesson.schema.json
-id: "clz1jfpka000110ul5qgzbsll"
+id: "clz2f8jby0001d4ulc0bx1f2w"
 title: "Продвинутое программирование на Python"
 blocks:
   - type: "text"
-    id: "clz1jfpka000210ul846gc2bq"
+    id: "clz2f8jby0002d4ul73gg6s5z"
     text: |
 
       <img width="50%" src="https://s3.timeweb.com/132514fc-images-staging/content/1 0 (7).png"/>
@@ -14,11 +14,11 @@ blocks:
       Были бы мы классными поциками, то играли бы в прядки, а так рубим бабосики
 
   - type: "video"
-    id: "clz1jfpka000310ul5z5k1gj2"
+    id: "clz2f8jby0003d4ul8quy8uz3"
     url: "https://example.com/video/python-advanced"
 
   - type: "text"
-    id: "clz1jfpka000410ulhyt634m2"
+    id: "clz2f8jby0004d4ul8o2o4v2t"
     text: |
       ## Введение в продвинутое программирование на Python
 
@@ -28,13 +28,13 @@ blocks:
       - Многопоточность и асинхронное программирование
 
   - type: "question"
-    id: "clz1jfpka000510ul68ai4hs2"
+    id: "clz2f8jby0005d4ulbil6htk0"
     answerOptions:
       - text: "Какие паттерны проектирования наиболее часто используются в Python?"
-        id: "clz1jfpka000610ul7ob7ggvl"
+        id: "clz2f8jby0006d4uldhhk8kt5"
         isRight: false
       - text: "Что такое список в Python и как он используется?"
-        id: "clz1jfpka000710ul6d4ccvyn"
+        id: "clz2f8jby0007d4ula9ld3m78"
         isRight: true
     explanation: |
       ### Объяснение
